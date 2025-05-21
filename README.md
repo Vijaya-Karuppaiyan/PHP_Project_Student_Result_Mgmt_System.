@@ -1,0 +1,1 @@
+# PHP_Project_Student_Result_Mgmt_System.
